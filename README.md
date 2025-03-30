@@ -1,2 +1,3 @@
 # IS2025-FCEyN
-Repository for exercises of the Software Engineering I course (2025) from the Facultad de Ciencias Exactas y Naturales, UBA, solved using the Smalltalk programming language.
+
+Repositorio de ejercicios de la materia Ingeniería de Software I (2025) de la Facultad de Ciencias Exactas y Naturales (UBA), resueltos utilizando el lenguaje de programación Smalltalk.
